@@ -1,0 +1,16 @@
+{
+  "name": "Quartz + Obsidian",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:22",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.vscode-typescript-next",
+        "esbenp.prettier-vscode",
+        "github.vscode-github-actions"
+      ]
+    }
+  },
+  "forwardPorts": [8080],
+  "workspaceMount": "source=${localWorkspaceFolder}/..,target=/workspaces,type=bind",
+  "workspaceFolder": "/workspaces/Quartz"
+}

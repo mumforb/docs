@@ -73,7 +73,16 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+ filters: [
+      Plugin.RemoveDrafts(),
+      (() => ({
+        name: "PublishFilter",
+        shouldPublish(_ctx, [_tree, vfile]) {
+          const publishFlag: boolean = vfile.data?.frontmatter?.publish === true
+          return publishFlag
+        },
+      }))(),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
