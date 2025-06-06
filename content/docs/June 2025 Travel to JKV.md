@@ -7,6 +7,31 @@ publish: true
 - Brenton on for keys SUN 6/22
 - Family to DC THU 6/19 - SUN 6/22
 
+## Final Selections
+### Grace
+#### Wednesday 8:00 AM
+- Frontier Airlines [F91785](https://www.skyscanner.com/transport/flights/rdu/sfb/250625/config/15821-2506250800--32289-0-13933-2506250959?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=true&outboundaltsenabled=false&preferdirects=false&rtn=0&stops=!oneStop,!twoPlusStops)
+- Departing from Raleigh / Durham, 8:00 AM
+- Arriving at Orlando International, 9:59 AM
+- $109
+#### Saturday 3:54 PM
+- Frontier Airlines [F91554](https://www.skyscanner.com/transport/flights/sfb/rdu/250628/config/13933-2506281554--32289-0-15821-2506281759?adultsv2=2&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=true&preferdirects=false&rtn=0)
+- Departing from Orlando International, 3:54 PM
+- Arriving at Raleigh / Durham, 5:59 PM
+- $101
+
+### Kelly & Brenton
+#### Thursday 6:00 AM
+- Frontier Airlines [F91785](https://www.skyscanner.com/transport/flights/rdu/sfb/250626/config/15821-2506260600--32289-0-13933-2506260801?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=true&outboundaltsenabled=false&preferdirects=false&rtn=0&stops=!oneStop,!twoPlusStops)
+- Departing from Raleigh / Durham, 6:00 AM
+- Arriving at Orlando International, 8:01 AM
+- $59
+#### Sunday 5:20 PM
+- Breeze Airways [MX595](https://www.skyscanner.com/transport/flights/sfb/rdu/250629/config/10900-2506291720--30755-0-15821-2506291858?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=true&preferdirects=false&rtn=0)
+- Departing from Daytona Beach, 5:20 PM
+- Arriving at Raleigh / Durham, 6:58 PM
+- $69
+
 ## Recommendations
 ### Grace
 - Tuesday 8:00 AM - Friday 10:26 PM ($59 + $59)
