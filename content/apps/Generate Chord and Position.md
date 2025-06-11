@@ -2,6 +2,9 @@
 {"publish":true,"cssclasses":""}
 ---
 
-🎸 Generate New Chord & Position
 
-Chord: B | Position: D
+## CHORD
+F#/Gb
+
+## POSITION
+C
