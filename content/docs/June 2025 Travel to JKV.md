@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"cssclasses":""}
 ---
+
 ## Parameters
 - Kelly off work FRI 6/27
 - Grace departs for the boat SUN 6/29

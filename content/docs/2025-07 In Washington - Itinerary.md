@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"cssclasses":""}
 ---
+
 ### Monday
 #### Whidbey Island
 - Fishing

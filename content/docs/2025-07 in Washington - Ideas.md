@@ -1,7 +1,8 @@
 ---
-publish: true
+{"publish":true,"cssclasses":""}
 ---
-See also [[2025-07 In Washington - Itinerary]]
+
+See also [[docs/2025-07 In Washington - Itinerary]]
 
 ## Adventures
 
@@ -66,7 +67,7 @@ WDFW allows for a more liberal harvest in some of these over-populated lakes and
 
 ### Cute Little Towns
 Coupeville
-Port Townsend - Highly recommended by [[Doris Bates]]
+Port Townsend - Highly recommended by [[people/Doris Bates]]
 Friday Harbor
 Langley
 Leavenworth 
@@ -91,55 +92,55 @@ Sequim
 	- **Difficulty:** Very Easy
 	- **Interest:** ⭐⭐⭐⭐⭐
 	- **Drive Time:** [180 minutes](https://www.google.com/maps/dir/Coupeville,+WA/Washington+Pass+Observation+Site,+Mazama,+WA/@48.4637203,-122.353919,9z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484ac63e224b823:0x332915e8eb3a70e!2m2!1d-120.6499805!2d48.5261498!2m3!6e0!7e2!8j1752661200!3e0?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Hwy 20]]
+	- **Route**: [[docs/Hwy 20]]
 - [Rainy Lake](https://www.google.com/maps/dir/Coupeville,+WA/Rainy+Pass+Trailhead,+NF-600,+Winthrop,+WA+98862/@48.4683501,-122.3962785,165843m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484ad93046c1dfd:0x6acd9587c6a29803!2m2!1d-120.7361806!2d48.516278?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
 	- **Length:** 2 miles
 	- **Difficulty:** Easy
 	- **Interest:** ⭐⭐⭐⭐
 	- **Drive Time:** [172 minutes](https://www.google.com/maps/dir/Coupeville,+WA/Rainy+Pass+Trailhead,+NF-600,+Winthrop,+WA+98862/@48.4683501,-122.3962785,165843m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484ad93046c1dfd:0x6acd9587c6a29803!2m2!1d-120.7361806!2d48.516278?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Hwy 20]]
+	- **Route**: [[docs/Hwy 20]]
 - [Gorge Lake Falls](https://www.alltrails.com/trail/us/washington/gorge-creek-falls-trail)
 	- **Length:** 1/2 mile
 	- **Difficulty:** Easy
 	- **Interest:** ⭐⭐⭐⭐⭐
 	- **Drive Time:** [128 minutes](https://www.google.com/maps/dir/Coupeville,+WA/Gorge+Overlook+Trail,+Rockport,+WA/@48.6396256,-122.1667978,100621m/data=!3m1!1e3!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x548495a826b1e809:0x5e5434e1b5df65be!2m2!1d-121.2098632!2d48.7000222?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Hwy 20]]
+	- **Route**: [[docs/Hwy 20]]
 - [Skagit River Trail](https://www.wta.org/go-hiking/hikes/skagit-river)
 	- **Length:** 1 3/4 miles
 	- **Difficulty:** Easy
 	- **Interest:** ⭐⭐⭐⭐
 	- **Drive Time:** [124 minutes](https://www.google.com/maps/dir/Coupeville,+WA/Skagit+River+Lp,+Washington+98267/@48.436133,-122.6596923,165948m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484eab7e77e8d81:0x1ccf21447f5edce1!2m2!1d-121.2655157!2d48.6703446?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Hwy 20]]
+	- **Route**: [[docs/Hwy 20]]
 - [Chain Lakes Trail](https://www.google.com/maps/dir/Coupeville,+WA/Chain+Lakes+Loop+Trailhead,+WA-542,+Deming,+WA+98244/@48.9150234,-122.1400627,792m/data=!3m1!1e3!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484f76824fa45a7:0xd4320e92883e480f!2m2!1d-121.6937912!2d48.8463054?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
 	- **Length:** 6 1/2 miles
 	- **Difficulty:** Moderate
 	- **Interest:** ⭐⭐⭐⭐⭐
 	- **Drive Time:** [128 minutes](https://www.google.com/maps/dir/Coupeville,+WA/Chain+Lakes+Loop+Trailhead,+WA-542,+Deming,+WA+98244/@48.9150234,-122.1400627,792m/data=!3m1!1e3!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484f76824fa45a7:0xd4320e92883e480f!2m2!1d-121.6937912!2d48.8463054?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Mt. Baker Hwy]]
+	- **Route**: [[docs/Mt. Baker Hwy]]
 - [Horseshoe Bend Trail](https://www.wta.org/go-hiking/hikes/horseshoe-bend)
 	- **Length:** 2 1/2 miles
 	- **Difficulty:** Easy
 	- **Interest:** ⭐⭐⭐⭐
 	- **Drive Time:** 120 minutes
-	- **Route**: [[Mt. Baker Hwy]]
+	- **Route**: [[docs/Mt. Baker Hwy]]
 - [Hidden Lake Lookout](https://www.wta.org/go-hiking/hikes/hidden-lake-lookout)
 	- **Length:** 8 miles
 	- **Difficulty:** Hard
 	- **Interest:** ⭐⭐⭐⭐
 	- **Drive Time:** 131 minutes
-	- **Route**: [[Hwy 20]]
+	- **Route**: [[docs/Hwy 20]]
 - [Nooksack Falls Trail](https://www.wta.org/go-hiking/hikes/nooksack-falls)
 	- **Length:** 1/16 mile
 	- **Difficulty:** Very Easy
 	- **Interest:** ⭐⭐⭐⭐
 	- **Drive Time:** [123m](https://www.google.com/maps/dir/Coupeville,+WA/Nooksack+Falls,+Washington/@48.5678417,-122.9315237,165518m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x548459bfea638c25:0xd377389a85c8617c!2m2!1d-121.8087542!2d48.9054022?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Mt. Baker Hwy]]
+	- **Route**: [[docs/Mt. Baker Hwy]]
  - [Trail of the Cedars](https://www.wta.org/go-hiking/hikes/trail-of-the-cedars)
 	- **Length:** 1/4 mile
 	- **Difficulty:** Very Easy
 	- **Interest:** ⭐⭐⭐⭐⭐
 	- **Drive Time:** [125m](https://www.google.com/maps/dir/Coupeville,+WA/Trail+of+the+Cedars,+Rockport,+WA+98283/@48.436133,-122.65242,165948m/data=!3m2!1e3!4b1!4m13!4m12!1m5!1m1!1s0x548f8b559945d759:0x992d454f7e17aae1!2m2!1d-122.6862804!2d48.2198208!1m5!1m1!1s0x5484954b9057fa61:0x464e4ec18785d6!2m2!1d-121.2461855!2d48.6717656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D)
-	- **Route**: [[Hwy 20]]
+	- **Route**: [[docs/Hwy 20]]
 
 Other hikes are currently listed as "uncategorized" - see below
 
@@ -147,7 +148,7 @@ Other hikes are currently listed as "uncategorized" - see below
 Includes hikes, drives, and other things
 
 ##### Olympic National Park
-[Hurricane Ridge](https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm) - Highly recommended by [[Doris Bates]]
+[Hurricane Ridge](https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm) - Highly recommended by [[people/Doris Bates]]
 [Cape Flattery Trail](https://makah.com/attractions/cape-flattery-trail/)
 [Neah Bay](https://makah.com/)
 [Lake Crescent](https://www.nps.gov/olym/planyourvisit/visiting-lake-crescent.htm)

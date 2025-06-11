@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"cssclasses":""}
 ---
+
 2 stalks celery - 2
 1 cucumber - 2
 1 bunch mint - 5
